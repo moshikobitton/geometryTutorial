@@ -1,0 +1,5 @@
+the time is25
+ wrong answers:0
+ correct answers:7
+ your score is:70
+ ---the question numbers with mistakes---

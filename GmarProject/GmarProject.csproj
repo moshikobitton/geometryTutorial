@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BD06CF5F-0211-4B7C-B6EF-B35ADACEC7A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GmarProject</RootNamespace>
+    <AssemblyName>GmarProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataItem.cs" />
+    <Compile Include="DateItemWithIMG.cs" />
+    <Compile Include="frm3Answer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm3Answer.Designer.cs">
+      <DependentUpon>frm3Answer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm3AnswersWPic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm3AnswersWPic.Designer.cs">
+      <DependentUpon>frm3AnswersWPic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddInfoPics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddInfoPics.Designer.cs">
+      <DependentUpon>frmAddInfoPics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddInfoNOPics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>frmAddInfoNOPics.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddQuest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddQuest.Designer.cs">
+      <DependentUpon>frmAddQuest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddQynWpic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddQynWpic.Designer.cs">
+      <DependentUpon>frmAddQynWpic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogIn.Designer.cs">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLearn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLearn.Designer.cs">
+      <DependentUpon>frmLearn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainInfo.Designer.cs">
+      <DependentUpon>frmMainInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmTriviaGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTriviaGame.Designer.cs">
+      <DependentUpon>frmTriviaGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questions.cs" />
+    <Compile Include="QuestionsWimage.cs" />
+    <EmbeddedResource Include="frm3Answer.resx">
+      <DependentUpon>frm3Answer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm3AnswersWPic.resx">
+      <DependentUpon>frm3AnswersWPic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddInfoPics.resx">
+      <DependentUpon>frmAddInfoPics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddInfoNOPics.resx">
+      <DependentUpon>frmAddInfoNOPics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddQuest.resx">
+      <DependentUpon>frmAddQuest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddQynWpic.resx">
+      <DependentUpon>frmAddQynWpic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogIn.resx">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLearn.resx">
+      <DependentUpon>frmLearn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainInfo.resx">
+      <DependentUpon>frmMainInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="frmTriviaGame.resx">
+      <DependentUpon>frmTriviaGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\WhatsApp Image 2021-07-12 at 11.34.27.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,74 @@
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmEnter.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.Properties.Resources.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GmarProject\GmarProject\bin\Debug\GmarProject.exe.config
+C:\Users\User\source\repos\GmarProject\GmarProject\bin\Debug\GmarProject.exe
+C:\Users\User\source\repos\GmarProject\GmarProject\bin\Debug\GmarProject.pdb
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.exe
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.pdb
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmLearning.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmTrivia.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmMainInfo.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddQuest.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddInfoPics.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmInfoNoPic.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\bin\Debug\GmarProject.exe.config
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\bin\Debug\GmarProject.exe
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\bin\Debug\GmarProject.pdb
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.AssemblyReference.cache
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddInfoPics.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.frmInfoNoPic.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddQuest.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.frmEnter.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.frmLearning.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.frmMainInfo.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.Properties.Resources.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.frmTrivia.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.GenerateResource.cache
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.CoreCompileInputs.cache
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.exe
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית\GmarProject\GmarProject\obj\Debug\GmarProject.pdb
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddQynWpic.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frm3AnswersWPic.resources
+C:\Users\User\source\repos\GmarProject\GmarProject\obj\Debug\GmarProject.frm3Answer.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\bin\Debug\GmarProject.exe.config
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\bin\Debug\GmarProject.exe
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\bin\Debug\GmarProject.pdb
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.AssemblyReference.cache
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frm3Answer.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frm3AnswersWPic.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddInfoPics.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmInfoNoPic.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddQuest.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddQynWpic.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmEnter.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmLearning.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmMainInfo.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.Properties.Resources.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.frmTrivia.resources
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.GenerateResource.cache
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.CoreCompileInputs.cache
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.exe
+C:\Users\m6m66\Desktop\עבודת גמר-חן ומושיקו ,הגשה חלקית (1)\GmarProject\GmarProject\obj\Debug\GmarProject.pdb
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\bin\Debug\GmarProject.exe.config
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\bin\Debug\GmarProject.exe
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\bin\Debug\GmarProject.pdb
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frm3Answer.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frm3AnswersWPic.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddInfoPics.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmInfoNoPic.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddQuest.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmAddQynWpic.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmEnter.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmLearning.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmMainInfo.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.Properties.Resources.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.frmTrivia.resources
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.exe
+\\Mac\Home\Desktop\מדעי המחשב - רופין\שנה א׳\סמסטר ב׳\C#\ Final project\GmarProject\GmarProject\obj\Debug\GmarProject.pdb
